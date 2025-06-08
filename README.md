@@ -26,4 +26,3 @@ O sistema também permite inserir novos pontos diretamente pelo terminal, com sa
 ---
 
 ## 🗂 Estrutura do Projeto
-GS_EvacTech_1sem2025/src/aplicacao/RotaSegura.java
